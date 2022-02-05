@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* background-color: black; */
+}
+
+.b1 {
+  padding: auto;
+  background-color: white;
+  margin: 100px;
+  border-radius: 15px; 
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.b1_top {
+  padding: 50px 50px 50px 75px;
+  font-family: sans-serif;
+}
+
+.b1_header {
+  color: #54aeae;
+  font-weight: bold;
+}
+
+.b1_subheader {
+  color: #c3da54;
+  margin: 45px 0 25px 0;
+  font-weight: bold;
+}
+
+.b1_desc {
+  color: grey;
+  margin: 5px 0 0 0;
+  font-size: 25px;
+}
+
+.b1_bottom {
+  height: 400px;
+  width: 100%;
+  color: white;
+  margin-top: 15px;
+}
+
+.b1_left_outer_box {
+  background-color: #54aeae;
+  width: 50%;
+  float: left;
+  height: 100%;
+  border-bottom-left-radius: 14px;
+}
+
+.b1_right_outer_box {
+  background-color: #69b9b6;
+  width: 50%;
+  float: right;
+  height: 100%;
+  border-bottom-right-radius: 14px;
+}
+
+.b1_inner_box {
+  padding: 50px 50px 0px 75px;
+}
+
+.b1_bottom_header {
+  margin: 15px 10px 25px 0px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.b1_fee {
+  font-size: 50px;
+}
+
+.b1_fee_month {
+  margin-left: 10px;
+}
+
+.b1_box_desc {
+  margin: 12px 0 25px 0;
+  font-size: 30px;
+}
+
+.signup_btn {
+  background-color: #c3da54;
+  padding: 20px 35% 20px 35%;
+  border-radius: 15px;
+  border: 2px solid #c3da54;
+  color: white;
+  font-size: 25px;
+}
+
+.b1_ul_list {
+  list-style-type: none;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
